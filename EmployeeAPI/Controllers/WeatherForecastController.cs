@@ -12,7 +12,7 @@ namespace EmployeeAPI.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
-        //satyam 
+        //satyam  singh
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
